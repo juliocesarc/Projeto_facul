@@ -1,5 +1,5 @@
 header {
-  background-color: blue;
+  background-color: #8234e9;
   color: white;
   padding: 10px;
   text-align: center;
@@ -16,5 +16,6 @@ header button {
 }
 
 header button:hover {
-  background-color: lightblue;
+  background-color: #f23aa1;
+  color: #fff;
 }
